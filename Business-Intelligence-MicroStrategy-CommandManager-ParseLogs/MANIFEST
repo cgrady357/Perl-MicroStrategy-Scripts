@@ -1,0 +1,10 @@
+.cvsignore
+Changes
+lib/Business/Intelligence/MicroStrategy/CommandManager/ParseLogs.pm
+Makefile.PL
+MANIFEST
+README
+t/00-load.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t
